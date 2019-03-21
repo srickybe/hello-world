@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+Hi humans !!!
+
+Love C++, Java. Should try Python
